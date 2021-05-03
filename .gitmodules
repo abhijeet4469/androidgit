@@ -1,0 +1,6 @@
+[submodule "androidgit2"]
+	path = androidgit2
+	url = https://github.com/abhijeet4469/androidgit2.git
+[submodule "Verysdk"]
+	path = Verysdk
+	url = https://github.com/abhijeet4469/androidgit2.git
