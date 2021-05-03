@@ -1,0 +1,3 @@
+include ':Verysdk'
+include ':app'
+rootProject.name = "AndroidGit"
